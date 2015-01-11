@@ -114,3 +114,16 @@ img {
 #certificate li {
 	list-style: none;
 }
+
+#course {
+	padding-top: 30px;
+    padding-right: 300px;
+    padding-bottom: 0px;
+    padding-left: 300px;
+    text-align: justify;
+
+}
+
+#course li {
+	list-style: none;
+}
