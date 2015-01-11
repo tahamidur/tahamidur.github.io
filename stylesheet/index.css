@@ -57,7 +57,7 @@ img {
 
 #content {
 	top: 600px;
-	height: 700px;
+	height: 1500px;
 	position: absolute;
 	width: 100%;
 	color:#373737;
@@ -85,6 +85,32 @@ img {
 
 }
 
-#honors ul {
+#honors li {
+	list-style: none;
+}
+
+#volunteer {
+	padding-top: 30px;
+    padding-right: 300px;
+    padding-bottom: 0px;
+    padding-left: 300px;
+    text-align: justify;
+
+}
+
+#volunteer li {
+	list-style: none;
+}
+
+#certificate {
+	padding-top: 30px;
+    padding-right: 300px;
+    padding-bottom: 0px;
+    padding-left: 300px;
+    text-align: justify;
+
+}
+
+#certificate li {
 	list-style: none;
 }
